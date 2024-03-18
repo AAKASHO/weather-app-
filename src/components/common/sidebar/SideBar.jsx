@@ -68,19 +68,19 @@ const SideBar = () => {
       submenus: [
         {
           name: "Org Master",
-          link: "/settings/banner",
+          link: "/update-org-master",
         },
         {
           name: "Workers",
-          link: "/settings/my-profile",
+          link: "/worker-list",
         },
         {
           name: "Equipment",
-          link: "/settings/my-profile",
+          link: "/equipment-list",
         },
         {
           name: "Process",
-          link: "/settings/my-profile",
+          link: "/process-list",
         },
       ],
     },
